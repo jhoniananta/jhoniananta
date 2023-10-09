@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jhoniananta
-- 👀 I’m interested in Frontend web, and C/C++ language
+- 👀 I’m interested in Frontend web, React.jS and Next.
 - 🌱 I’m currently learning Javascript, C, and python
 - 📫 How to reach me at instagram @jhoni_sitepu or email: jhoniananta@gmail.com
 
